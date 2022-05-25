@@ -1,0 +1,13 @@
+C:\Users\Jakub\Desktop\programowanie\hero\hero\bin\Debug\netcoreapp3.1\hero.exe
+C:\Users\Jakub\Desktop\programowanie\hero\hero\bin\Debug\netcoreapp3.1\hero.deps.json
+C:\Users\Jakub\Desktop\programowanie\hero\hero\bin\Debug\netcoreapp3.1\hero.runtimeconfig.json
+C:\Users\Jakub\Desktop\programowanie\hero\hero\bin\Debug\netcoreapp3.1\hero.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\programowanie\hero\hero\bin\Debug\netcoreapp3.1\hero.dll
+C:\Users\Jakub\Desktop\programowanie\hero\hero\bin\Debug\netcoreapp3.1\hero.pdb
+C:\Users\Jakub\Desktop\programowanie\hero\hero\obj\Debug\netcoreapp3.1\hero.csprojAssemblyReference.cache
+C:\Users\Jakub\Desktop\programowanie\hero\hero\obj\Debug\netcoreapp3.1\hero.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\programowanie\hero\hero\obj\Debug\netcoreapp3.1\hero.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\programowanie\hero\hero\obj\Debug\netcoreapp3.1\hero.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\programowanie\hero\hero\obj\Debug\netcoreapp3.1\hero.dll
+C:\Users\Jakub\Desktop\programowanie\hero\hero\obj\Debug\netcoreapp3.1\hero.pdb
+C:\Users\Jakub\Desktop\programowanie\hero\hero\obj\Debug\netcoreapp3.1\hero.genruntimeconfig.cache
